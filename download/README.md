@@ -4,11 +4,11 @@
 
 ## 下载
 
-**Windows（64位）**：[点击下载Virtual Box 7.0 for Windows](www.virtualbox.org/wiki/Downloads/)
+**Windows（64位）**：[点击下载Virtual Box 7.0 for Windows](https://www.virtualbox.org/wiki/Downloads/)
 
-**Mac（Intel芯片）**：[点击下载Virtual Box 7.0 for MacOS Intel](www.virtualbox.org/wiki/Downloads/)
+**Mac（Intel芯片）**：[点击下载Virtual Box 7.0 for MacOS Intel](https://www.virtualbox.org/wiki/Downloads/)
 
-**Mac（ARM）**：[点击下载Virtual Box 7.0 for MacOS（ARM）](www.virtualbox.org/wiki/Downloads/)
+**Mac（ARM）**：[点击下载Virtual Box 7.0 for MacOS（ARM）](https://www.virtualbox.org/wiki/Downloads/)
 
 ## 教程
 
