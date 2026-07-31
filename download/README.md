@@ -47,4 +47,9 @@
   **Q：我的虚拟机好慢！**
   **A：请在创建虚拟机的时候取消“启用3D加速”。**
 
+> 截图如下：
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c6bb815f-6117-49eb-a7ff-b844313e7994" />
+
+
 > **版权声明**：本教程仅供学习使用，版权归作者所有。
